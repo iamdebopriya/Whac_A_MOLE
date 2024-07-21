@@ -6,7 +6,7 @@ Game Statement
 The objective of the game is to score as many points as possible by clicking on the moles as they appear randomly on the screen within a set time limit.
 
 How to Win
-Click on the moles as quickly as possible to increase your score. The game ends when the timer runs out, and your final score is displayed.
+Click on the moles as quickly as possible to increase your score.As you click on the pirana-plant the game will over .
 
 Technologies Used
 HTML: Structure of the game.
